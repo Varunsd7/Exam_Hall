@@ -99,5 +99,8 @@ It uses sensors, microcontrollers, and wireless communication to track student a
 The Exam Hall Monitoring System provides an efficient and reliable way to improve exam security using IoT technology. While it cannot fully replace manual supervision, it significantly reduces malpractice and enhances monitoring efficiency.
 
 ---
+Sensors → ESP32 → Data Processing → WiFi → Monitoring System
+↓
+Alerts
 
 ## 🧩 System Architecture  
