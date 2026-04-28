@@ -21,8 +21,8 @@ String RFID_2 = "E1 FE 07 0F";
 String RFID_3 = "13 13 E1 2C";
 
 String NAME_1 = "Sakshi K";
-String NAME_2 = "Fariyal J";
-String NAME_3  = "Om J";
+String NAME_2 = "Varun D";
+String NAME_3  = "Om A";
 
 uint8_t FP_1 = 2;
 uint8_t FP_2 = 3;
