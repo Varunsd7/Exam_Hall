@@ -24,8 +24,8 @@ String RFID_2  = "E1 FE 07 0F";
 
 //------ USER NAME ----------
 String NAME_1  = "Sakshi K";
-String NAME_2  = "Fariyal J";
-String NAME_3  = "Om J";
+String NAME_2  = "Varun D";
+String NAME_3  = "Om Awade";
 
 //------ FINGER PRINT ID ----------
 uint8_t FP_1  = 2;
